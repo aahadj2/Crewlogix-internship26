@@ -1,0 +1,72 @@
+[
+  {
+    "role": "human",
+    "content": "What are the undergraduate admission requirements at LUMS?",
+    "timestamp": "2026-06-24T13:20:03.247094"
+  },
+  {
+    "role": "assistant",
+    "content": "The undergraduate admission requirements at LUMS include a Higher Secondary School Certificate (HSSC / A-Levels / IB) with at least 60%, SAT score (1200+ recommended) or NTS-NAT score, and completion of the LUMS Admission Test (LAT). Additionally, applicants must submit a personal statement and letters of recommendation, and may be required to attend an interview. The application deadlines are Early Decision (October 31) and Regular Decision (January 31).",
+    "timestamp": "2026-06-24T13:20:13.127207"
+  },
+  {
+    "role": "human",
+    "content": "What is the GPA threshold for academic probation at LUMS?",
+    "timestamp": "2026-06-24T13:20:13.128129"
+  },
+  {
+    "role": "assistant",
+    "content": "Agent stopped due to iteration limit or time limit.",
+    "timestamp": "2026-06-24T13:20:18.477451"
+  },
+  {
+    "role": "human",
+    "content": "What scholarships does LUMS offer for financially disadvantaged students?",
+    "timestamp": "2026-06-24T13:20:18.477876"
+  },
+  {
+    "role": "assistant",
+    "content": "LUMS offers several Need-Based Scholarships for financially disadvantaged students, including the LUMS National Outreach Programme (NOP), LUMS One Nation Programme, and General Need-Based Aid. Additionally, the university also offers Merit-Based Scholarships such as Chancellor's Award, Dean's Merit Scholarship, and Academic Excellence Award.",
+    "timestamp": "2026-06-24T13:20:27.106679"
+  },
+  {
+    "role": "human",
+    "content": "What is the attendance policy and what happens if I miss too many classes?",
+    "timestamp": "2026-06-24T13:20:27.107375"
+  },
+  {
+    "role": "assistant",
+    "content": "The attendance policy at LUMS requires a minimum of 80% attendance in all scheduled class sessions. Missing more than 20% of classes may result in grade deduction or a Withdrawal Failing (WF) status, and three consecutive unexcused absences will be reported to the Office of Student Affairs.",
+    "timestamp": "2026-06-24T13:20:33.037327"
+  },
+  {
+    "role": "human",
+    "content": "Calculate my fee: SBASSE undergraduate, 18 credit hours, shared hostel, standard meal plan",
+    "timestamp": "2026-06-24T13:20:33.038118"
+  },
+  {
+    "role": "assistant",
+    "content": "Agent stopped due to iteration limit or time limit.",
+    "timestamp": "2026-06-24T13:20:37.436420"
+  },
+  {
+    "role": "human",
+    "content": "How much will an MBA student pay for 12 credit hours with no hostel and 50% scholarship?",
+    "timestamp": "2026-06-24T13:20:37.437054"
+  },
+  {
+    "role": "assistant",
+    "content": "The estimated semester fee for an MBA student with 12 credit hours, no hostel, and a 50% scholarship is not available. Please provide the correct format of input as \"calculate_lums_fee(query='query_string')\".",
+    "timestamp": "2026-06-24T13:20:39.852840"
+  },
+  {
+    "role": "human",
+    "content": "What is the semester fee for MGSHSS 15 credit hours with single room and premium meal?",
+    "timestamp": "2026-06-24T13:20:39.853560"
+  },
+  {
+    "role": "assistant",
+    "content": "The semester fee for MGSHSS 15 credit hours with single room and premium meal is approximately PKR 933,000.",
+    "timestamp": "2026-06-24T13:20:42.725101"
+  }
+]
