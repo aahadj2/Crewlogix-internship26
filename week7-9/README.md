@@ -28,6 +28,7 @@ Requires a local [Ollama](https://ollama.com) instance: `ollama pull llama3.2` a
 | `task4.py` | Multi-tool ReAct agent combining a PDF RAG Q&A tool with a Pakistani (FBR) income-tax-slab calculator tool. |
 | `task5.py` | LUMS University AI Assistant (Week 9): two agents — a RAG policy Q&A agent and a fee-calculator agent — with topic guardrails, PII output scrubbing, LangSmith tracing, and JSON-persisted sliding-window memory. |
 | `task6.py` | LangGraph version of the university assistant: a 2-node graph that collects user name/email (saved to `users.csv`) before answering from `lums_policies.txt` via RAG. |
+| `task7.py` | LangGraph course registration workflow: validates student info (with retry loop up to 3 attempts), checks eligibility, pauses for advisor approval via `interrupt()`, and registers or rejects the student. Uses `InMemorySaver` checkpointing and `Command(resume=...)` to continue after human review. |
 | `taska.py` | Production RAG chatbot (Assignment 2, Week 7): hybrid retrieval (BM25 + dense vector via `EnsembleRetriever`), cross-encoder reranking, multi-turn memory, PII redaction, and safety/output filtering. |
 | `taskb.py` | Extended production RAG chatbot (Week 7 extension): adds per-session memory isolation, source citations, and RAGAS evaluation (faithfulness, answer relevancy, context precision) on top of taska's hybrid retrieval + reranking pipeline. |
 | `assgn2.ipynb` | Notebook version of `taska.py` — the Assignment 2 production RAG chatbot walkthrough. |
