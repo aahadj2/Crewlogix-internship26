@@ -1,0 +1,9 @@
+ollama
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+rank-bm25
+pypdf
+ragas
+datasets
