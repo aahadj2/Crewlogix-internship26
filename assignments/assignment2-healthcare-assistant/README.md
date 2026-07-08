@@ -1,4 +1,4 @@
-# Assignment 3 — Healthcare Clinic RAG Assistant
+# Assignment 2 — Healthcare Clinic RAG Assistant
 
 A RAG-based assistant for Dr. Jawad Zaheer's clinic that answers patient questions (appointments, fees, schedules, lab tests, refills, reports, emergencies) strictly from the clinic's policy documents, running fully local on Ollama.
 
