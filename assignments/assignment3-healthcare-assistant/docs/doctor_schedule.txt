@@ -1,0 +1,16 @@
+DOCTOR SCHEDULE - Dr. Jawad Zaheer Clinic
+
+Prof. Dr. Jawad Zaheer (General Physician / Consultant Physician)
+Monday - Saturday: 5:00 PM - 9:00 PM
+Sunday: By appointment only (limited slots, 5:00 PM - 7:00 PM)
+Consultation type: In-person only
+
+Dr. Fatima Jawad (General Physician / Family Physician)
+Monday - Saturday: 10:00 AM - 1:00 PM and 6:00 PM - 9:00 PM
+Sunday: 11:00 AM - 2:00 PM
+Consultation type: In-person and video consultation available
+
+Notes:
+- Doctor availability may change on public holidays. Please call the clinic reception at 042-35701771 to confirm before visiting on a holiday.
+- Video consultations with Dr. Fatima Jawad can be booked through the oladoc.com platform.
+- Patients requiring an urgent same-day consultation should call ahead, as slots fill quickly during evening hours.

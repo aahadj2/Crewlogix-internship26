@@ -1,0 +1,28 @@
+CLINIC INFORMATION - Dr. Jawad Zaheer Clinic
+
+Clinic Name: Dr. Jawad Zaheer Clinic
+Address: 27-A, CCA Sui Gas Society, Phase 1, Lahore, Punjab, Pakistan
+Contact Number: 042-35701771
+Alternate Booking Line (oladoc): 042-38900939
+
+Clinic Timings:
+Monday to Sunday: 9:00 AM to 11:00 PM
+The clinic reception remains open every day of the week, including public holidays, though individual doctor consultation hours vary (see doctor_schedule.txt).
+
+Doctors Available:
+1. Prof. Dr. Jawad Zaheer - General Physician, Family Physician, Consultant Physician
+   Qualifications: MBBS, MD, MRCP (Medicine)
+   Experience: 37 years
+2. Dr. Fatima Jawad - General Physician, Family Physician
+   Qualifications: MBBS
+   Experience: 4 years
+   Patient Rating: 5.0/5
+
+Services Offered:
+- General physician consultations (in-person and video consultation)
+- Family medicine and routine check-ups
+- Basic diagnostic lab test coordination
+- Medicine refill consultations for existing chronic-illness patients
+- Patient report collection and review
+
+For any information not covered in these documents, please contact the clinic directly at 042-35701771.
